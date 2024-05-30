@@ -6,7 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/AllVinny/buscador_de_financiamento?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/AllVinny/buscador_de_financiamento?style=for-the-badge)
 
-<img src="img/v2a-dev-high-resolution-logo-white-transparent.png" alt="V2A_DEV">
+<img src="img/v2a-dev-high-resolution-logo-white.png" alt="V2A_DEV">
 
 > Projeto de automatização de busca de valores de financiamentos de veículos.
 
@@ -14,9 +14,9 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
+- [ ] Tarefa 1
+- [ ] Tarefa 2
+- [ ] Tarefa 3
 - [ ] Tarefa 4
 - [ ] Tarefa 5
 
@@ -26,10 +26,10 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 <table>
   <tr>
     <td align="center">
-      <a href="#" title="defina o titulo do link">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+      <a href="#" title="">
+        <img src="" width="100px;" alt="Foto do Vinny Alves no GitHub"/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>Vinny Alves</b>
         </sub>
       </a>
     </td>

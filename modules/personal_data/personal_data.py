@@ -14,9 +14,9 @@ class PersonalData:
 
     def set_person(self):
         while self.opt_legal_or_not not in [1, 2]:
-            self.opt_legal_or_not = int(
-                input("Selecione o documento: \n 1- CPF \n 2- CNPJ\n")
-            )
+            # self.opt_legal_or_not = int(
+            #     input("Selecione o documento: \n 1- CPF \n 2- CNPJ\n")
+            # )
             if self.opt_legal_or_not not in [1, 2]:
                 print("Digite a opção 1 ou 2! ")
                 continue
@@ -28,7 +28,7 @@ class PersonalData:
                 break
 
         while self.opt_cnh not in [1, 2]:
-            self.opt_cnh = int(input("Possui CNH: \n 1- Sim \n 2- Não\n"))
+            # self.opt_cnh = int(input("Possui CNH: \n 1- Sim \n 2- Não\n"))
             if self.opt_cnh not in [1, 2]:
                 print("Digite a opção 1 ou 2! ")
                 continue
@@ -40,7 +40,7 @@ class PersonalData:
                 break
 
         while self.opt_vehicle not in [1, 2]:
-            self.opt_vehicle = int(input("Qual o veículo: \n 1- Carro \n 2- Moto\n"))
+            # self.opt_vehicle = int(input("Qual o veículo: \n 1- Carro \n 2- Moto\n"))
             if self.opt_vehicle not in [1, 2]:
                 print("Digite a opção 1 ou 2! ")
                 continue

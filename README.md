@@ -14,11 +14,16 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [ ] Tarefa 1
-- [ ] Tarefa 2
-- [ ] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+ - [ ] Mapear tela com dados do usuário
+ - [ ] Mapear tela de seleção (carro / moto) e seleção de lojas 
+ - [ ] Criar documento excel genérico para preenchimento dos dados (cliente e veiculo)
+ - [ ] Criar função de abertura e leitura do excel (antes estudar estrutura da RPA de BI)(Chuto persistencia)
+ - [ ] Preencher os dados do veiculo
+ - [ ] Raspar dados do resultado e salvar em excel
+ - [ ] Criar to do para proximo site
+
+# Anotações
+
 
 
 ## 🤝 Autores
